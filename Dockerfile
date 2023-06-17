@@ -1,6 +1,6 @@
 #FROM debian:latest
 #FROM theniwo/gobuntu:latest
-FROM ubuntu:latest
+FROM ubuntu:kinetic
 
 ARG BUILD_DATE
 ARG NAME
